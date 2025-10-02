@@ -66,7 +66,7 @@ export OPENAI_API_KEY="sk-..."
 ### 3. Run the Streamlit app
 
 ```bash
-streamlit run ainia_demo.py
+python -m streamlit run ainia_demo.py
 ```
 
 Once started, Streamlit will provide a **local URL** (e.g., `http://localhost:8501`) where you can interact with the app.  
